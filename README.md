@@ -1,5 +1,10 @@
 # flutter_application_dise
 
+Lanzarlo con flutter run --no-sound-null-safety
+
+
+
+
 A new Flutter project.
 
 ## Getting Started
