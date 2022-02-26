@@ -1,4 +1,4 @@
-# flutter_application_dise
+# flutter_application_dise_funcional : tiend de vinilos. 
 
 Lanzarlo con flutter run --no-sound-null-safety
 
